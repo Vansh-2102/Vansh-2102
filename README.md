@@ -1,5 +1,7 @@
+<small>
 # 💫 About Me:
-# Hi 👋, I'm Vansh Pal<br><br>💻 **Aspiring Software Engineer**<br>🚀 Full Stack Development (Spring Boot / React) | AI/ML (Python)<br><br>## 🧠 About Me<br><br>- 🔭 **Currently working on:** Strengthening Machine Learning, Deep Learning, and DSA fundamentals<br>- 🌱 **Learning:** Scalable AI model deployment using Docker, FastAPI, and Cloud integrations<br>- ⚙️ **Building:** End-to-end intelligent applications combining Python backends with computer vision<br>- 🎯 **Goal:** Become an ML Engineer capable of solving real-world problems with impactful software
+# Hi 👋, I'm Vansh Pal<br><br>💻 **Aspiring Software Engineer**<br>🚀 Full Stack Development (Spring Boot / React) | AI/ML (Python)<br><br>## 🧠 About Me<br><br>- 🔭 **Currently working on:** Strengthening Machine Learning, Deep Learning, and DSA fundamentals<br>- 🌱 **Learning:** Scalable AI model deployment using Docker, FastAPI, and Cloud integrations<br>- ⚙️ **Building:** End-to-end intelligent applications combining Python backends with computer vision<br>- 🎯 **Goal:** Become an ML Engineer capable of solving real-world problems with impactful software 
+  <small>
 
 
 ## 🌐 Socials:
